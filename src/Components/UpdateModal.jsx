@@ -1,5 +1,3 @@
-import React from "react";
-
 const UpdateModal = ({ handleUpdate, selectedUser, modalRef }) => {
   return (
     <dialog
